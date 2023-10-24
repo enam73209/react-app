@@ -52,4 +52,131 @@
     line-height: 1.4;
     color: #666;
   }
+
+
+.about-page {
+    padding: 20px;
+    background-color: #f9f9f9;
+    text-align: left;
+    margin: 20px auto;
+    /* display: flex;
+    justify-content: center; 
+    align-items: center; */
+
+  }
+  
+  .about-page h1 {
+    text-align: center;
+    justify-content: center; 
+    font-size: 28px;
+    color: #333;
+    margin: 0 0 20px;
+  }
+  
+  .about-page p {
+    text-align: center;
+    font-size: 16px;
+    line-height: 1.4;
+    color: #666;
+    margin: 0 0 15px;
+    justify-content: center; 
+  }
+  
+  .about-page p:last-child {
+    margin-bottom: 0;
+  }
+  
+
+.service-page {
+    padding: 20px;
+    background-color: #f9f9f9;
+
+    text-align: center;
+    margin: 20px auto;
+   
+  }
+  
+  .service-page h1 {
+    font-size: 28px;
+    color: #333;
+    margin: 0 0 20px;
+  }
+  
+  .service-page p {
+    font-size: 16px;
+    line-height: 1.4;
+    color: #666;
+    margin: 0 0 15px;
+  }
+  
+  .service-page ul {
+    list-style: disc;
+ 
+  }
+  
+  .service-page li {
+    font-size: 16px;
+    color: #555;
+    margin: 5px 0;
+  }
+  
+
+.project-page {
+    padding: 20px;
+    background-color: #f9f9f9;
+    text-align: center;
+    margin: 20px auto;
+  }
+  
+  .project-page h1 {
+    font-size: 28px;
+    color: #333;
+    margin: 0 0 20px;
+  }
+  
+  .project-page p {
+    font-size: 16px;
+    line-height: 1.4;
+    color: #666;
+    margin: 0 0 20px;
+  }
+  
+  .project {
+    margin-bottom: 20px;
+  }
+  
+  .project-image {
+    width: 20%;
+    max-width: 20%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  .project h2 {
+    font-size: 24px;
+    color: #333;
+    margin: 10px 0;
+  }
+  
+  .project p {
+    font-size: 16px;
+    line-height: 1.4;
+    color: #555;
+  }
+
+
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+
+  
+  
+ 
+
+  
+  
   
