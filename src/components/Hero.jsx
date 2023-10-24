@@ -5,7 +5,7 @@ const Hero = () => {
     return (
         <div className="staff-member">
         <img
-          src={Profile} // Replace with the path to the staff member's image
+          src={Profile} 
           alt="Staff Member"
           className="staff-image"
         />
